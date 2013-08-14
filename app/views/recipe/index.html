@@ -1,0 +1,21 @@
+<div ng-app="recipeApp">
+
+  <div ng-controller="IndexCtrl">
+    <div class="topcoat-list__container">
+
+      <ul class="topcoat-list recipe-list">
+        <li class="topcoat-list__item" hm-tap="open(recipe.recipe_id)" ng-repeat="recipe in recipes | filter:{dessert: dessertParam}">
+          <div class="recipe-name__container">
+            <h2>{{ recipe.name }}</h2>
+          </div>
+          <div class="recipe-image__container">
+            <img ng-src="{{recipe.photo_url}}">
+          </div>
+        </li>
+      </ul>
+
+    </div>
+
+  </div>
+
+</div>

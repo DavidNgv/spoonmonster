@@ -1,0 +1,76 @@
+* {
+  -webkit-user-select: none;  /* Disable selection/copy of elements when tapping for a long time */
+  -webkit-touch-callout: none; /* Disable touch callouts */
+}
+
+@font-face {
+   font-family: Roboto;
+   src: url('/fonts/Roboto_100.ttf') format('truetype');
+}
+
+input {
+  -webkit-user-select: text;  /* Allow selection for input elements */
+}
+.body {
+  font-family: Lucida;
+}
+.content-padded {
+  padding: 10px;
+}
+
+.recipe-image__container {
+  height:100px;
+  overflow:hidden;
+}
+
+.recipe-image__container > img {
+  max-width:100%;
+}
+
+.recipe-name__container {
+  
+  padding: 0px 0px 0px 15px;
+}
+
+.recipe-list > li {
+  padding: 0 0 15px 0px !important;
+}
+
+/* SHOW VIEW */
+.recipe-show-content > img {
+  max-width:100%;
+}
+
+.topcoat-list {
+  border: none;
+}
+
+.topcoat-list__item {
+  background-color: white;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    0px 0px 5px rgba(50, 50, 50, 0.75);
+  box-shadow:         0px 0px 5px rgba(50, 50, 50, 0.75);
+}
+
+.topcoat-list__item h2 {
+  font-family: Roboto;
+}
+
+/* Show recipe */
+
+.recipe-show-content {
+  background-color: white;
+}
+
+.recipe-show-content h2 {
+  font-family: Roboto;
+}
+
+.recipe-show-content ul {
+  padding-left: 20px;
+}
+
+.recipe-show-content ol {
+  padding-left: 20px;
+}

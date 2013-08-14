@@ -1,0 +1,111 @@
+[ 
+  {
+    "recipe_id": 1,
+    "dessert": false,
+    "photo_url": "/data/recipe_images/blt_sandwich_1.png",
+    "name": "BLT sandwich",
+    "description": "The bacon, lettuce and tomato sandwich, commonly referred to as the BLT, is a classic sandwich that can be found almost everywhere.",
+    "ingredients": [
+      "bacon, sliced in rashers",
+      "lettuce, washed and shredded, torn, or in whole leaves",
+      "ripe tomato, sliced into thin disks",
+      "two slices of any type of bread",
+      "sandwich spread or condiments (e.g., butter, margarine, mayonnaise, cream cheese, or mustard, although mayonnaise is traditional)",
+      "ground black pepper, if desired"
+    ],
+    "instructions": [
+      "Toast the two slices of bread.",
+      "While the bread is toasting broil or fry the bacon until crisp, taking care not to burn it.",
+      "Once the toasted bread is ready, spread with desired condiments.",
+      "Layer one slice of toast with the lettuce, tomato slices, and bacon. Add black pepper as desired. Top with other slice of toast.",
+      "Cut into triangles or halves as preferred. Serve immediately."
+    ]
+  },
+  {
+    "recipe_id": 2,
+    "dessert": true,
+    "photo_url": "/data/recipe_images/gingerbread_cake_1.png",
+    "name": "Gingerbread cake",
+    "description": "This recipe produces gingerbread, not gingerbread cookies. Gingerbread is a type of spice cake.",
+    "ingredients": [
+      "4 oz butter",
+      "4 oz (110g) brown sugar",
+      "8 oz (220g) golden syrup",
+      "8 oz (220g) all-purpose flour",
+      "1 level teaspoon baking powder",
+      "1 level teaspoon mixed spice",
+      "2 level teaspoon ground ginger",
+      "2 eggs",
+      "4 fluid oz (120ml) milk"
+    ],
+    "instructions": [
+      "Put the butter, sugar, and syrup in a pan. Heat gently until the butter melts.",
+      "Place the dry ingredients in a bowl. Pour the melted butter mixture into the bowl, and beat thoroughly.",
+      "Warm the milk in a pan (so it will dissolve the syrup).",
+      "Add the milk to the bowl, and beat thoroughly.",
+      "Beat the eggs, and then stir them in to the mixture.",
+      "Pour the mixture into an 8-inch (20cm) greased square cake tin.",
+      "Cook at 170°C (325°F) for one hour.",
+      "Cool in the tin for 15 minutes, then remove.",
+      "Leave at least 1 day before cutting into squares."
+    ]
+  },
+  {
+    "recipe_id": 3,
+    "dessert": true,
+    "photo_url": "/data/recipe_images/blueberry_muffins_1.png",
+    "name": "Blueberry muffins",
+    "description": "Blueberry muffins are a pastry common in many parts of the world.",
+    "ingredients": [
+      "1¾ cups (420g) flour",
+      "⅓ cup (160ml) sugar",
+      "2 teaspoons baking powder",
+      "¼ teaspoon salt",
+      "1 egg, beaten",
+      "¾ cup (180ml) milk",
+      "¼ cup (60ml) cooking oil",
+      "¾ cup (180ml) blueberries, fresh or frozen"
+    ],
+    "instructions": [
+      "Grease muffin cups or line with paper cups; set aside.",
+      "Preheat the oven to 400°F (200°C).",
+      "In a medium bowl, combine flour, sugar, baking powder, and salt. Make a well in the center of the mixture and set aside.",
+      "In a small bowl, combine beaten egg, milk, and oil. Add this mixture all at once to the flour mixture. Fold in blueberries and stir just until combined. Do not overstir.",
+      "Spoon batter into prepared cups, filling each about two-thirds.",
+      "Bake for 18 to 20 minutes or until golden. When a wooden toothpick is inserted near the middle, it should come out clean.",
+      "Remove from muffin cups and let cool on a wire rack for 5 minutes."
+    ]
+  },
+  {
+    "recipe_id": 4,
+    "dessert": false,
+    "photo_url": "/data/recipe_images/borscht_1.png",
+    "name": "Borscht",
+    "description": "Borscht, or borsch is a hearty beetroot vegetable soup considered to originate from Ukraine or Western Russia. The soup is part of the local culinary heritage of many Eastern and Central European nations. It is also a staple dish in Eastern Europe, and made its way into United States cuisine by way of Jewish immigrants (as well as other Eastern Europeans).",
+    "ingredients": [
+      "1½ cups thinly sliced potatoes (about 3 small potatoes)",
+      "1 cup thinly sliced beets.",
+      "4 cups water",
+      "1-2 tablespoons butter",
+      "1½ cups chopped onion (about ⅓ of a large onion)",
+      "1½ teaspoons salt",
+      "1 stalk celery, chopped",
+      "1 medium carrot, chopped",
+      "3 to 4 cups shredded cabbage (about ⅓ of a large cabbage)",
+      "a little fresh ground black pepper",
+      "1 teaspoon Dill weed",
+      "1 to 2 tablespoons cider vinegar",
+      "1 to 2 tablespoons brown sugar or honey",
+      "1 cup Tomato purée or ¼ to ½ cup tomato paste",
+      "Sour cream or yogurt (to garnish)",
+      "Dill weed (to garnish)"
+    ],
+    "instructions": [
+      "Place the potatoes, beets, and water in a medium-sized saucepan. Cover and cook over medium heat until tender (20-30 minutes). While that is cooking, do steps 2-3.",
+      "Melt the butter in a Dutch oven/soup pot. Add the onion and salt. Cook over medium heat, stirring occasionally, until the onions are translucent (8 to 10 minutes).",
+      "Add the celery, carrots, cabbage, and two cups of the water in which the potatoes and beets are cooking. Cover and cook over medium heat until the vegetables are tender (8 to 10 minutes).",
+      "Add the remaining soup ingredients (including the potatoes, beets, and the rest of the water in which they are cooking). Cover and simmer for at least 15 more minutes. Correct the seasonings. If it is too thin, let it simmer uncovered, and maybe add a little more tomato paste.",
+      "Serve hot, topped with sour cream or yoghurt and sprinkled with dill. (If desired the sour cream or yoghurt can be served with the soup and used as a condiment to taste.)"
+    ]
+  }
+]
