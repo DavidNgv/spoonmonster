@@ -24,30 +24,24 @@
   {
     "recipe_id": 2,
     "dessert": true,
-    "photo_url": "/data/recipe_images/gingerbread_cake_1.png",
-    "name": "Gingerbread cake",
-    "description": "This recipe produces gingerbread, not gingerbread cookies. Gingerbread is a type of spice cake.",
+    "photo_url": "/data/recipe_images/anzac_biscuits_1.png",
+    "name": "ANZAC biscuits",
+    "description": "ANZAC biscuits have long had an association with the Australia/New Zealand Army Corps (ANZAC) troops sent to Gallipoli during WWI. The biscuit appears to be a variation of Scottish oat cakes, said to be from the Scottish-influenced city of Dunedin. The recipe was created to ensure the biscuits would keep well during naval transportation to loved ones who were fighting abroad.",
     "ingredients": [
-      "4 oz butter",
-      "4 oz (110g) brown sugar",
-      "8 oz (220g) golden syrup",
-      "8 oz (220g) all-purpose flour",
-      "1 level teaspoon baking powder",
-      "1 level teaspoon mixed spice",
-      "2 level teaspoon ground ginger",
-      "2 eggs",
-      "4 fluid oz (120ml) milk"
+      "2 cups plain (non - self raising) flour",
+      "1 cup white or brown sugar",
+      "4 tablespoons golden syrup (cane syrup) or honey",
+      "1 cup desiccated coconut",
+      "2 cups rolled or instant oats",
+      "225 grams butter or margarine"
     ],
     "instructions": [
-      "Put the butter, sugar, and syrup in a pan. Heat gently until the butter melts.",
-      "Place the dry ingredients in a bowl. Pour the melted butter mixture into the bowl, and beat thoroughly.",
-      "Warm the milk in a pan (so it will dissolve the syrup).",
-      "Add the milk to the bowl, and beat thoroughly.",
-      "Beat the eggs, and then stir them in to the mixture.",
-      "Pour the mixture into an 8-inch (20cm) greased square cake tin.",
-      "Cook at 170°C (325°F) for one hour.",
-      "Cool in the tin for 15 minutes, then remove.",
-      "Leave at least 1 day before cutting into squares."
+      "Preheat oven to 150°C (300°F)",
+      "Mix the dry ingredients in a bowl.",
+      "Melt the syrup and butter in a saucepan. If necessary, add a little water to the mix.",
+      "Mix the wet and dry ingredients.",
+      "Roll into small balls and flatten on oven trays.",
+      "Bake at 150°C (300°F) for about 20 minutes or until golden brown."
     ]
   },
   {
@@ -106,6 +100,111 @@
       "Add the celery, carrots, cabbage, and two cups of the water in which the potatoes and beets are cooking. Cover and cook over medium heat until the vegetables are tender (8 to 10 minutes).",
       "Add the remaining soup ingredients (including the potatoes, beets, and the rest of the water in which they are cooking). Cover and simmer for at least 15 more minutes. Correct the seasonings. If it is too thin, let it simmer uncovered, and maybe add a little more tomato paste.",
       "Serve hot, topped with sour cream or yoghurt and sprinkled with dill. (If desired the sour cream or yoghurt can be served with the soup and used as a condiment to taste.)"
+    ]
+  },
+  {
+    "recipe_id": 2,
+    "dessert": true,
+    "photo_url": "/data/recipe_images/gingerbread_cake_1.png",
+    "name": "Gingerbread cake",
+    "description": "This recipe produces gingerbread, not gingerbread cookies. Gingerbread is a type of spice cake.",
+    "ingredients": [
+      "4 oz butter",
+      "4 oz (110g) brown sugar",
+      "8 oz (220g) golden syrup",
+      "8 oz (220g) all-purpose flour",
+      "1 level teaspoon baking powder",
+      "1 level teaspoon mixed spice",
+      "2 level teaspoon ground ginger",
+      "2 eggs",
+      "4 fluid oz (120ml) milk"
+    ],
+    "instructions": [
+      "Put the butter, sugar, and syrup in a pan. Heat gently until the butter melts.",
+      "Place the dry ingredients in a bowl. Pour the melted butter mixture into the bowl, and beat thoroughly.",
+      "Warm the milk in a pan (so it will dissolve the syrup).",
+      "Add the milk to the bowl, and beat thoroughly.",
+      "Beat the eggs, and then stir them in to the mixture.",
+      "Pour the mixture into an 8-inch (20cm) greased square cake tin.",
+      "Cook at 170°C (325°F) for one hour.",
+      "Cool in the tin for 15 minutes, then remove.",
+      "Leave at least 1 day before cutting into squares."
+    ]
+  },
+  {
+    "recipe_id": 6,
+    "dessert": false,
+    "photo_url": "/data/recipe_images/huevos_rancheros_1.png",
+    "name": "Huevos Rancheros",
+    "description": "Huevos Rancheros (Spanish for 'eggs ranch-style') is a traditional Mexican country breakfast. From its home in Mexico, the dish has spread throughout the Americas.",
+    "ingredients": [
+      "3 tablespoons (45ml) vegetable oil",
+      "1 medium onion, chopped",
+      "1 clove garlic, finely chopped (optional)",
+      "chopped chili peppers, to taste",
+      "1 pinch chili powder",
+      "4 plum tomatoes, peeled, seeded and chopped",
+      "2 corn tortillas",
+      "2 eggs",
+      "1/2 teaspoon sugar",
+      "salt and pepper, to taste",
+      "1 tablespoon cilantro or parsley, finely chopped (optional)"
+    ],
+    "instructions": [
+      "To prepare the ranchero sauce, in a skillet, heat 1 tablespoon oil over medium-high heat. Add the onion and optional garlic, and sauté until softened but not brown, 4 or 5 minutes.",
+      "Add the tomatoes, peppers, chili powder, salt and a few grinds of black pepper and reduce to a simmer. Simmer for about 10 minutes, until the sauce begins to thicken up.",
+      "Add the cilantro or parsley, turn off the heat and cover the pan to keep the sauce warm.",
+      "In another skillet, lightly fry the tortillas in 1 tablespoon of oil. Remove and drain.",
+      "If necessary, add additional oil to the second skillet, and fry the eggs until they are 'sunny-side up'. Transfer the eggs to the tortillas, and cover with the ranchero sauce."
+    ]
+  },
+  {
+    "recipe_id": 7,
+    "dessert": false,
+    "photo_url": "/data/recipe_images/reuben_sandwich_1.png",
+    "name": "Reuben Sandwich",
+    "description": "The Reuben or Reuben sandwich is a grilled or toasted sandwich made with corned beef, sauerkraut, Swiss cheese, and Russian dressing. It is typically made with rye bread though originally it may have been served on pumpernickel bread. The origins of the Reuben are contested. One account holds that Reuben Kulakofsky (sometimes spelled Reubin), a grocer from Omaha, Nebraska, was the inventor, perhaps as part of a group effort by members of Kulakofsky's weekly poker game held in the Blackstone Hotel from ca. 1920-1935. The participants, who nicknamed themselves 'the committee', included the hotel's owner, Charles Schimmel. The sandwich first gained local fame when Schimmel put it on the Blackstone's lunch menu.",
+    "ingredients": [
+      "½ pound (225g) sliced corned beef",
+      "¼ cup (60ml) drained sauerkraut",
+      "2 tablespoons chopped sweet onion",
+      "2 tablespoons creamy Russian dressing",
+      "2 slices rye bread",
+      "1-3 slices Swiss cheese",
+      "Chopped parsley",
+      "1 tablespoon butter"
+    ],
+    "instructions": [
+      "Combine the sauerkraut, onion, and parsley",
+      "Spread the dressing on two slices bread",
+      "Pile layers of corned beef, cheese, and sauerkraut mixture on one slice",
+      "Add second slice of bread",
+      "Butter the outside of the bread",
+      "Grill until lightly browned, roughly 5-10 minutes"
+    ]
+  },
+  {
+    "recipe_id": 8,
+    "dessert": true,
+    "photo_url": "/data/recipe_images/rainbow_jello_1.png",
+    "name": "Rainbow Jell-O",
+    "description": "Rainbow Jell-O - a multilayered, multiflavored Jell-O extravaganza. This recipe takes about five hours to prepare, although the time is spent largely in waiting; it is therefore best to plan to intersperse it with other activity and, if they don't mind the constant smell of Jell-O, best done with other people. It yields ten (or as many as you want) layers, alternating opaque and clear, of five colors. (The sour cream or yogurt, used for opacity, cannot be tasted in the final product.)",
+    "ingredients": [
+      "6 1/4 cups (around 1.5l) boiling water",
+      "5 (or more) packages Jell-O gelatin (4-serving size each; different flavors and colors)",
+      "1 cup (240g) sour cream or plain or vanilla yogurt"
+    ],
+    "instructions": [
+      "Select one or more molds. The total volume will be approximately eight cups; a ring mold, two or three glass containers (as pictured), or any other assortment should work; for best results, the container should be at least 3in (10cm) deep, allowing for about ten 1cm-thick layers.",
+      "Stir 1 1/4 cups boiling water and one package gelatin in a small bowl for at least two minutes, until completely dissolved. (In practice, it may not quite completely dissolve.)",
+      "Pour 3/4 cups dissolved gelatin into the mold(s).",
+      "Refrigerate for about 15 minutes, until the gelatin sets but is not yet firm: the gelatin should stick to your finger when you touch it. (The aim is for the layers to stick, but not mix.)",
+      "Refrigerate the remaining gelatin for about 5 minutes, until it is slightly thickened (to the consistency of unbeaten egg white).",
+      "Gradually stir 3 tablespoons sour cream or yogurt into the remaining, thickened gelatin.",
+      "Spoon the gelatin on top of the previous layer (gently, so as to maintain a smooth surface).",
+      "Refrigerate again for about 15 minutes.",
+      "Repeat the above for each of the remaining flavors. Be sure to cool adequately between layers to prevent melting and mixing.",
+      "When finished, refrigerate for about 2 hours, until firm. Remove the gelatin from the mold and place it (probably upside down) on a plate or smooth cutting board. Store refrigerated under saran wrap or aluminum foil. For best effect, serve sliced perpendicular to the layers, so each slice (approximately 1cm thick) displays the full rainbow."
     ]
   }
 ]

@@ -10,9 +10,14 @@ See a cloud-deployed version (viewable with [AppGyver Scanner for iOS](https://i
 Recipe text and pictures from Wikibooks Cookbook at http://en.wikibooks.org/wiki/Cookbook:Recipes.
 
 ###Photo credits:
+
+* ANZAC biscuits: [pfctdayelise](http://en.wikipedia.org/wiki/User:pfctdayelise)
 * BLT Sandwich: [Ollylain](http://flickr.com/photos/ollie_lizard/)
 * Blueberry Muffins: [Rob Pongsajapan](http://www.flickr.com/photos/15131913@N00)
 * Borscht: [Peter Isotalo](http://commons.wikimedia.org/wiki/User:Karmosin)
 * Gingerbread Cake: [telly telly](http://www.flickr.com/people/21082191@N00)
+* Huevos Rancheros: [Elchavobeer](http://en.wikipedia.org/wiki/User:Elchavobeer)
+* Rainbow Jello: [Naib](http://commons.wikimedia.org/wiki/User:Naib)
+* Reuben Sandwich: [Ben FrantzDale](http://en.wikipedia.org/wiki/User:BenFrantzDale)
 
 Licensed under Creative Commons Attribution-ShareAlike 3.0 license. Full text at: http://creativecommons.org/licenses/by-sa/3.0/
