@@ -14,7 +14,7 @@ module.factory('RecipeRestangular', function(Restangular) {
 
   return Restangular.withConfig(function(RestangularConfigurer) {
 
-    RestangularConfigurer.setBaseUrl('http://localhost:13101/data');
+    RestangularConfigurer.setBaseUrl('http://localhost/data');
     RestangularConfigurer.setRequestSuffix('.json');
     RestangularConfigurer.setRestangularFields({
       id: "recipe_id"
